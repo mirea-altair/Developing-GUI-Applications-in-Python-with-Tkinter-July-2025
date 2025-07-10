@@ -1,0 +1,5 @@
+button_background = "#30343F"
+text_color = "#FFF"
+hover_effect_color = "#90949F"
+label_background = "#406181"
+entry_background = "#E8A68E"
